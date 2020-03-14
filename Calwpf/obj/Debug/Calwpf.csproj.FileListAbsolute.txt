@@ -1,0 +1,13 @@
+c:\users\safaj\documents\visual studio 2015\Projects\Calwpf\Calwpf\bin\Debug\Calwpf.exe.config
+c:\users\safaj\documents\visual studio 2015\Projects\Calwpf\Calwpf\bin\Debug\Calwpf.exe
+c:\users\safaj\documents\visual studio 2015\Projects\Calwpf\Calwpf\bin\Debug\Calwpf.pdb
+c:\users\safaj\documents\visual studio 2015\Projects\Calwpf\Calwpf\obj\Debug\MainWindow.g.cs
+c:\users\safaj\documents\visual studio 2015\Projects\Calwpf\Calwpf\obj\Debug\App.g.cs
+c:\users\safaj\documents\visual studio 2015\Projects\Calwpf\Calwpf\obj\Debug\Calwpf_MarkupCompile.cache
+c:\users\safaj\documents\visual studio 2015\Projects\Calwpf\Calwpf\obj\Debug\Calwpf_MarkupCompile.lref
+c:\users\safaj\documents\visual studio 2015\Projects\Calwpf\Calwpf\obj\Debug\MainWindow.baml
+c:\users\safaj\documents\visual studio 2015\Projects\Calwpf\Calwpf\obj\Debug\Calwpf.g.resources
+c:\users\safaj\documents\visual studio 2015\Projects\Calwpf\Calwpf\obj\Debug\Calwpf.Properties.Resources.resources
+c:\users\safaj\documents\visual studio 2015\Projects\Calwpf\Calwpf\obj\Debug\Calwpf.csproj.GenerateResource.Cache
+c:\users\safaj\documents\visual studio 2015\Projects\Calwpf\Calwpf\obj\Debug\Calwpf.exe
+c:\users\safaj\documents\visual studio 2015\Projects\Calwpf\Calwpf\obj\Debug\Calwpf.pdb
